@@ -1,0 +1,12 @@
+---
+slug: :mikutter-subparts-translate
+depends:
+  mikutter: 3.4.0
+  plugin:
+  - gtk
+  - settings
+  - command
+version: '0.0.1'
+author: moguno
+name: mikutter-subparts-translate
+description: "ツイートを日本語に翻訳します。"
